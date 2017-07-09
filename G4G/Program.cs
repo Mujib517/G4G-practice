@@ -10,8 +10,15 @@ namespace G4G
     {
         static void Main(string[] args)
         {
-            var arr = Arrays.Seggregate(new[] { 1, 0, 1, 1, 0, 0, 1, 0, 1 });
-            foreach (var item in arr) Console.Write(item + " ");
+            //            var stack = new Stack<int>();
+            //
+            //            stack.Push(1);
+            //            stack.Push(2);
+            //            stack.Push(3);
+            //            stack.Push(4);
+            //            stack.Push(5);
+            //
+            //            Stacks.NextGreaterElement(new[] { 4, 5, 2, 25 });
         }
     }
 }
